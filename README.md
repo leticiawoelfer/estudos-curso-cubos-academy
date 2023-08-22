@@ -1,1 +1,1 @@
-Esse repositório é referente ao exercício inicial do curso Potencia Tech Powered by Ifood + Cubos Academy ♥♥♥
+Repositório destinado a commits dos codigos que acabo fazendo no curso e quero postar para que fiquem salvos de alguma forma sem ser somente na minha máquina ;D
